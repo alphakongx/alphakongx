@@ -1,28 +1,12 @@
-<p align="center">
-  <a href="#">
-    <img alt="total stars" title="Total stars on GitHub"
-      src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/alphakongx" /></a>
-  <a href="#">
-    <img alt="followers" title="Follow me on Github"
-      src="https://custom-icon-badges.herokuapp.com/github/followers/alphakongx?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" /></a>
-  <a href="#">
-    <img alt="views" title="GitHub profile views"
-      src="https://shields-io-visitor-counter.herokuapp.com/badge?page=st&style=for-the-badge" /></a>
+<h1 align="center">Senior Mobile Engineer</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alphakongx&label=Profile%20views&color=0e75b6&style=flat" alt="alphakongx" /> </p>
+<p align="left"> 
+    <a href="https://github.com/alphakongx/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=alphakongx" alt="alphakongx" />
+    </a> 
 </p>
 
-<p align="center">
-  <a href="https://github.com/alphakongx/github-readme-streak-stats">
-    <img title="� Get streak stats for your profile at git.io/streak-stats" alt="alphakongx"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=alphakongx&theme=monokai-metallian&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/alphakongx/github-readme-stats">
-    <img height="150"
-      src="https://github-readme-stats.vercel.app/api?username=alphakongx&count_private=true&show_icons=true&custom_title=AlphaZach's%20Github%20Status&hide=issues&theme=vision-friendly-dark" />
-  </a>
-</p>
+![Zach's GitHub stats](https://github-readme-stats.vercel.app/api?username=alphakongx&hide=contribs,prs)
 
 
 - � How to reach me </br>
